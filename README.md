@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm M Venkat Naidu</h1>
 <h3 align="center">DevOps Enthusiast, Assistant System Engineer @TCS</h3>
-- 🔭 I’m currently working at [Tata Consultancy Services](tcs.com)
+
+- 🔭 I’m currently working at [Tata Consultancy Services](https://www.tcs.com/)
 
 - 👨‍💻 All of my projects are available at [github.com/mvnaidu8](github.com/mvnaidu8)
 
