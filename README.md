@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M Venkat Naidu</h1>
-<h3 align="center">DevOps Enthusiast, Assistant System Engineer @TCS</h3>
+<h3 align="center">FullStack & DevOps, Assistant System Engineer @TCS</h3>
 
 - 🔭 I’m currently working at [Tata Consultancy Services](https://www.tcs.com/)
 
-- 🌱 I’m currently learning **DevOps Culture and Tools!**
+- 🌱 I’m currently learning **Angular, Spring Boot and DevOps Tools & Culture**
 
 - 👨‍💻 All of my projects are available at [github.com/mvnaidu8](github.com/mvnaidu8)
 
